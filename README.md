@@ -1,0 +1,2 @@
+# SSD1963-7-Inch-EVB
+SSD1963 7 Inch EVB
